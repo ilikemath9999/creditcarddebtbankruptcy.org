@@ -1,0 +1,16 @@
+{
+  "name": "Credit Card Debt Bankruptcy Guide",
+  "short_name": "CC Debt BK",
+  "description": "Free guide to filing bankruptcy on credit card debt. Chapter 7 vs Chapter 13, secured vs unsecured, lawsuits, and rebuilding credit after discharge.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
